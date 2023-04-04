@@ -1,0 +1,25 @@
+{
+  "name": "api-management",
+  "version": "1.0.0",
+  "description": "Technical Interview – Part 1: Coding exercise at home",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruellavas2/API-Management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruellavas2/API-Management/issues"
+  },
+  "homepage": "https://github.com/ruellavas2/API-Management#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongodb": "^5.1.0"
+  }
+}
